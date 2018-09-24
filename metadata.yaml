@@ -1,11 +1,16 @@
 _repo: Battles-of-Destiny_56951
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56951-h/images/cover.jpg
 creator:
   author:
     agent_name: Shepperson, M. Fides
     gutenberg_agent_id: '49098'
     url: http://www.gutenberg.org/2009/agents/49098
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56951#Battles-of-Destiny
 gutenberg_issued: '2018-04-10'
 gutenberg_type: Text
 identifiers:
